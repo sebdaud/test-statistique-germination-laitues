@@ -84,7 +84,7 @@ head(levee)
 hist(levee$Temps)
 ```
 
-<img title="" src="file:///Users/citron/MEGA/teluq/session_1/statistiques_r/cours_09_travail-final/md/hist.png" alt="" width="634">
+<img title="" src="./hist.png" alt="" width="634">
 
 ```r
 #visualisons nos données
